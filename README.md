@@ -52,15 +52,15 @@ Collection of beginner-to-intermediate Python projects for practical learning.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bharghava-teja&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bharghava-teja&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharghava-teja&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharghava-teja&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharghava-teja&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Bharghava-teja&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
