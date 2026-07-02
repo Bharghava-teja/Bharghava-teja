@@ -36,30 +36,16 @@
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🤖 AI Based Story Generator
-An intelligent application that generates creative stories using AI concepts and automation workflows.
-
-### 🧩 Maze Solver using A* Algorithm
-A pathfinding project demonstrating AI search algorithms and robot navigation strategies.
-
-### 📊 Power BI Dashboard Project
-Interactive dashboard project focused on data visualization and business insights.
-
-### 💻 Python Automation & Mini Projects
-Collection of beginner-to-intermediate Python projects for practical learning.
+- 🎯 **Interview Master** – AI-powered mock interview & secure proctoring platform.
+- 🎬 **Watch Party** – Real-time synchronized movie streaming platform.
+- 📊 **Data Analytics Dashboard** – SQL + Python data analysis project.
+- 🤟 **Sign Language Recognition** – CNN-based hand gesture recognition.
 
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Bharghava-teja&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharghava-teja&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img
@@ -67,6 +53,12 @@ Collection of beginner-to-intermediate Python projects for practical learning.
     alt="GitHub Streak" />
 </p>
 
+---
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bharghava-teja&theme=tokyonight&no-frame=true&row=2&column=4" />
+</p>
 ---
 
 ## 🌐 Connect With Me
