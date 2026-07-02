@@ -20,7 +20,10 @@
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git/github,vscode,js,excel,power bi" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,js,git,github,vscode" />
+  <br><br>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ### 💡 Core Skills
@@ -52,15 +55,16 @@ Collection of beginner-to-intermediate Python projects for practical learning.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bharghava-teja&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Bharghava-teja&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharghava-teja&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharghava-teja&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bharghava-teja&theme=tokyonight&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=Bharghava-teja&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak" />
 </p>
 
 ---
