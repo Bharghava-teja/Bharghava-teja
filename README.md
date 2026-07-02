@@ -54,12 +54,6 @@
 </p>
 
 ---
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Bharghava-teja&theme=tokyonight&no-frame=true&row=2&column=4" />
-</p>
----
 
 ## 🌐 Connect With Me
 
