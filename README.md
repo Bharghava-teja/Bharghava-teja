@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bharghava Teja</h1>
-<h3 align="center">AI & Software Developer | CSE AI Student | Python Enthusiast</h3>
+<h3 align="center">Data Analyst & Software Developer | CSE AI Student | Python Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;AI+Enthusiast;Data+Analytics+Learner;Building+Real+World+Projects&center=true&width=500&height=45">
@@ -20,7 +20,7 @@
 ## 🛠️ Skills & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git/github,vscode,js,excel,power bi" />
 </p>
 
 ### 💡 Core Skills
